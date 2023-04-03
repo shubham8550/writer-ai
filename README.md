@@ -1,7 +1,7 @@
 # Writer AI Plugin for Inkdrop
 The Writer AI plugin for Inkdrop adds artificial intelligence (AI) functionality to your note-taking workflow. Powered by the Alpaca AI model, this plugin allows you to perform various AI tasks directly in your Inkdrop notes, without leaving your local system.
 
-![](./assets/video_001.gif)
+![](./assets/demo.gif)
 
 
 ## Features
