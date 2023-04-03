@@ -1,0 +1,31 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Writer-AI",
+        "submenu": [
+          {
+            "label": "Alpaca 7B",
+            "command": "ai:alpaca7b"
+          }
+        ]
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "Writer-AI (offline-AI)",
+          "submenu":  [
+            {
+              "label": "Alpaca 7B",
+              "command": "ai:alpaca7b"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
