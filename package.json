@@ -1,7 +1,7 @@
 {
   "name": "writer-ai",
   "main": "./lib/writer-ai",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "An Offile Ai - Features of Alpaca 7B(LLama) model similar to GPT but free and offline which uses dalai",
   "keywords": [],
   "repository": "https://github.com/shubham8550/writer-ai",
